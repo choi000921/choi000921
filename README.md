@@ -68,5 +68,5 @@ Git, GitHub
 
 ## 📫 Contact
 
-Phone: 010-3579-3474
+**Phone: 010-3579-3474**
 Email: wrpre@naver.com
